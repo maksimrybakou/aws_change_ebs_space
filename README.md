@@ -12,3 +12,6 @@ You can make additional profile (with adding IAM creds) in ~/.aws or left your c
 
 
 Choose profile, check current space (script searching only for additional EBS, skips root) and choose how many GB you want to add.
+
+
+Yes, creds are deactivated, by the way)
