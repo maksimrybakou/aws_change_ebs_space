@@ -60,7 +60,7 @@ elif [[ $aws_cli_install == "No" ]]; then
 echo "Skip installation"
 fi
 
-echo "Do you need additional AWS CLI prfile? (Yes/No)" 
+echo "Do you need additional AWS CLI profile? (Yes/No)" 
 read aws_cli_profile_conf
 if [[ $aws_cli_profile_conf == "Yes" ]]; then
 cli_configuration
